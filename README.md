@@ -1,2 +1,2 @@
 # fake-news-detection
-The aim of the project in to predict whether the provided news are fake or real.
+The project's objective is to determine if the news sources are authentic or fraudulent.
